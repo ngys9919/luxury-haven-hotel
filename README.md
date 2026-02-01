@@ -4,7 +4,7 @@ A beautiful, modern hotel room booking application with a premium design.
 
 ## 🌐 Live Website
 
-Visit the live website at: [GitHub Pages URL will be added after deployment]
+Visit the live website at: **https://ngys9919.github.io/luxury-haven-hotel/**
 
 ## ✨ Features
 
